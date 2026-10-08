@@ -1,0 +1,25 @@
+
+# Web App
+streamlit
+
+# Environment Variables
+python-dotenv
+
+# LangChain
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq
+
+# PDF Processing
+pypdf
+
+# Embeddings
+sentence-transformers
+huggingface-hub
+
+# Vector Store
+faiss-cpu
+
+# Testing
+pytest
