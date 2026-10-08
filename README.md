@@ -7,7 +7,7 @@ The application uses **Retrieval-Augmented Generation (RAG)** to retrieve releva
 ---
 ## 🎞 Demo Link
 
-- **[ASK Document PDF-Chatbot](APP_link)**
+- **[ASK Document PDF-Chatbot](https://ask-document-pdf-chatbot-otdrljsldvgfe3jxm8qhu5.streamlit.app/)**
 
 
 ## 🚀 Features
